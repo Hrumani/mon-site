@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Emergence</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Global Emergence</h1>
+        <nav>
+            <a href="#accueil">Accueil</a>
+            <a href="#services">Services</a>
+            <a href="#about">À propos</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+    
+    <section id="accueil">
+        <h2>Bienvenue chez Global Emergence</h2>
+        <p>Nous créons des stands, pavillons et organisons des missions B2B.</p>
+    </section>
+    
+    <section id="services">
+        <h2>Nos Services</h2>
+        <ul>
+            <li>Conception et fabrication de stands</li>
+            <li>Organisation de pavillons pour événements</li>
+            <li>Missions B2B et networking</li>
+        </ul>
+    </section>
+    
+    <section id="about">
+        <h2>À propos de nous</h2>
+        <p>Avec plusieurs années d'expérience, nous accompagnons nos clients dans la mise en avant de leur marque.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contactez-nous</h2>
+        <p>Email : contact@globalemergence.com</p>
+        <p>Téléphone : +971 50 123 4567</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Global Emergence - Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
